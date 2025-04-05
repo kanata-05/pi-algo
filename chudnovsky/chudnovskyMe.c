@@ -2,6 +2,7 @@
 #include <math.h>
 #include <stdint.h>
 
+// For binarySplit
 typedef struct {
     float Pab;
     float Qab;
